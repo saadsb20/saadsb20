@@ -33,4 +33,3 @@ I am Saâd Bouryaln, currently a DevOps consultant at Nemo Technology.
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=saadsb20&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadsb20&hide=TeX&layout=compact)
