@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Saâd Bouryaln, currently a software engineering student. I am fascinated and intrested by the DevOps and AI fields. Find out more about me & feel free to connect with me here:
+I am Saâd Bouryaln, currently a DevOps consultant at Nemo Technology.
 
 [![Linkedin Badge](https://img.shields.io/badge/-SaâdBouryaln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sa%C3%A2d-bouryaln/)](https://www.linkedin.com/in/sa%C3%A2d-bouryaln/)
 [![Gmail Badge](https://img.shields.io/badge/-saadbouryaln@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saadbouryaln@gmail.com)](mailto:saadbouryaln@gmail.com)
